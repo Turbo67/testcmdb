@@ -1,0 +1,2 @@
+# testcmdb
+practise golang
